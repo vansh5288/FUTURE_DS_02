@@ -48,3 +48,46 @@ The dashboard is designed to provide **business-ready insights** with clear visu
 ---
 
 ## 📂 Project Structure
+FUTURE_DS_02
+│
+├── README.md
+└── Task_2_Marketing_Analytics_Dashboard
+├── Advertising_Data.csv
+├── Marketing_Analytics_Dashboard.pbix
+├── Marketing_Analytics_Dashboard.pdf
+└── dashboard_preview.png
+
+---
+
+## 🔍 Key Insights
+- Google Ads and TV account for the highest marketing spend.
+- Overall ROI is greater than 1, indicating a profitable marketing strategy.
+- Cost per product remains controlled despite high ad spend.
+- Opportunity exists to optimize influencer and affiliate channels.
+
+---
+
+## 📷 Dashboard Preview
+See **dashboard_preview.png** for a snapshot of the Power BI dashboard.
+
+---
+
+## 📎 Files Included
+- `.pbix` → Editable Power BI dashboard
+- `.pdf` → Exported dashboard for quick viewing
+- `.csv` → Raw dataset
+- `.png` → Dashboard screenshot
+
+---
+
+## ✅ Internship Task Status
+✔ Task 2 completed  
+✔ Dashboard created  
+✔ GitHub repository maintained as per guidelines  
+
+---
+
+### 👤 Author
+**Vansh Babbar**  
+Data Science & Analytics Intern – Future Interns
+
